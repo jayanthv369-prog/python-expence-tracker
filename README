@@ -1,0 +1,25 @@
+# EXPENSE TRACKER APP 
+This is a simple python based expense tracker to manage daily expenses efficiently
+
+## About
+This application helps user :
+- View all expenses
+- Add expenes
+- Delete expenses
+- Calculate total spent
+- Save expenses to a file
+
+## Features
+- Menu driven interface
+- Stores expenses in lists
+- Saves data to a file
+- Beginner-friendly and easy to modify
+
+## Technologies used
+- Python programming language
+
+## Author
+- Jayanth datta
+
+## License 
+This project is for learning purpose
